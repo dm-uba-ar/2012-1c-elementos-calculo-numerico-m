@@ -1,8 +1,4 @@
-# Elementos de Cálculo Numérico — Primer cuatrimestre de 2012
-
-## Equipo docente
-
-- **Clases teóricas:** María Gabriela Armentano
+# Elementos Cálculo Numérico M — Primer cuatrimestre de 2012
 
 ## Prácticas
 
